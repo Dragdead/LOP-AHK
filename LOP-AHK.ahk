@@ -8,7 +8,7 @@
 ;Rebinds Esc to the forward mouse button like in Ds3
 ;---------------------------------------------------
 
-#IfWinActive ahk_exe eldenring.exe
+#IfWinActive ahk_exe LOP.exe
 $*Xbutton2::
     SendInput, {Esc Down}
     Sleep, 50
