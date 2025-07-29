@@ -1,4 +1,4 @@
-## ER-AHK
+## LOP-AHK
 
 This AHK script tweaks a few inputs for Lies of P on Keyboard & Mouse on a WASD layout.
 
